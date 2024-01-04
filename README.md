@@ -48,5 +48,3 @@ No ETA for big updates also because i don't know actually if im going to be able
 ## Last Ryze Kiddions update: 09/07/2023
 ## Last Ryze Stand update: 13/06/2023
 ## Last Ryze FivemM update: 17/03/2023
-
-
